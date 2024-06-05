@@ -1,5 +1,5 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hikicrypto&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
-
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=cursedarthas)](https://www.last.fm/user/soulkks)
 <!--
 **arthascursed/arthascursed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
